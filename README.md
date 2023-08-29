@@ -25,7 +25,7 @@ The TFL Tube Status Tracker is a web application that provides users with an eas
 To set up the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/geraldjtorres/tube-status.git`
-2. Install dependencies: `yarb install`
+2. Install dependencies: `yarn install`
 3. Run the development server: `yarn run dev`
 
 ## API Integration
